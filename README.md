@@ -1,2 +1,2 @@
-# vue-drip
+# vue-drip 😎🔥🔫💣
 Open Source MOB 😎
