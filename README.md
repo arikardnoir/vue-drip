@@ -12,9 +12,12 @@ Is cool place to find UI Vue Components, for all VUEJS developers who need to us
 
 [Vue Drip Button](https://github.com/arikardnoir/vue-drip-button)
 
+## Contributing
+
+Thank you for considering contributing to the vue-drip! We dont have a contribution guide yet. But you can hit me up aristo.lopes@gmail.com
 
 
 
 ## LICENSE
 
-MIT
+The vue-drip is open-source repository licensed under the [MIT license](https://opensource.org/licenses/MIT).
