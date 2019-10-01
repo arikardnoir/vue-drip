@@ -5,7 +5,7 @@ Open Source MOB 😎
 
 ## What is it?
 
-Is cool place to find UI Vue Components, for all VUEJS developers who need to use components to economize time.
+Is cool place to find UI Vue Components, for all VueJS developers.
 
 
 ## Components 🎨
