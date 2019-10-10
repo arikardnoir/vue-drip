@@ -15,7 +15,9 @@ Inspired by @NextBSS vue-components
 
 [Vue Drip NavTab](https://github.com/arikardnoir/vue-drip-navtab)
 
-[Vue Drip Tab](https://github.com/arikardnoir/vue-drip-tab)
+[Vue Drip Tab](https://github.com/arikardnoir/vue-drip-navtab)
+
+[Vue Drip Collapse](https://github.com/arikardnoir/vue-drip-collapse)
 
 ## Contributing
 
