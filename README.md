@@ -1,5 +1,5 @@
 # vue-drip 🔥
-Open Source MOB 😎
+Cool Open Source 😎
 
 > A Vue.js Repo where you find group of simple plugin to easily integrate in your projects.
 
